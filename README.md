@@ -21,10 +21,6 @@ Installation du Serveur DNS
 
 Test de Connexion au Serveur SFTP
 
-Paramètres de Sécurité Additionnels
-
-Conclusion
-
 
 ## Prérequis
 
